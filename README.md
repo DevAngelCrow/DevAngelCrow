@@ -14,11 +14,16 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) | Intermedio |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | Básico |
 
+## 📊 Estadisticas relevantes
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: stretch">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAngelCrow&show_icons=true&theme=dark" style="max-width: 100%; height: auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAngelCrow&layout=donut&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAngelCrow&include_all_commits=true&line_height=28.5&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark" style="max-width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAngelCrow&layout=donut&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40" style="max-width: 100%"/>
 </div>
 
+## 💼 Experiencia laboral
+
+### Desarrollador web front-end para el Ministerio de Salud de El Salvador
 
 
 
