@@ -16,7 +16,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: stretch">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAngelCrow&show_icons=true&theme=dark" style="max-width: 100%; height: auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAngelCrow&layout=donut&custom_title=Lenguajes+más+utilizados&theme=dark" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAngelCrow&layout=donut&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=8" style="max-width: 100%; height: auto;"/>
 </div>
 
 
