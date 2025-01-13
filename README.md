@@ -1,4 +1,4 @@
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqa2ZuZGxxNDR4M2xpNmcwM3d4dWhpaDA0bDV6N3hmeGhra2pscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uXA3AVxUtHsVKVjlj8/giphy.gif" width="120" /> Hola, soy Angel Velásquez 👋
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lqa2ZuZGxxNDR4M2xpNmcwM3d4dWhpaDA0bDV6N3hmeGhra2pscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uXA3AVxUtHsVKVjlj8/giphy.gif" width="120" /> Hola, soy Angel Velásquez <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3plOGFvdTZ6OXEyd2YxY2VpMHlzOHp3M3A1cHY0enR4MDRxazQ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7ZUgBDGY7U6be/giphy.gif" width="50" />
 
 ### 💻 Front-End Developer </>
 
