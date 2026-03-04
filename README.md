@@ -17,8 +17,8 @@
 ## 📊 Estadisticas relevantes
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: stretch">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAngelCrow&include_all_commits=true&line_height=28.5&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark" style="max-width: 100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAngelCrow&layout=donut&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40" style="max-width: 100%"/>
+  <img src="https://readme-stats.angel-raven.dev/api?username=DevAngelCrow&include_all_commits=true&line_height=28.5&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark" style="max-width: 100%" />
+  <img src="https://readme-stats.angel-raven.dev/api/top-langs/?username=DevAngelCrow&layout=donut&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40" style="max-width: 100%"/>
 </div>
 
 ## 💼 Experiencia laboral
