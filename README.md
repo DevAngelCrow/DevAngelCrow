@@ -14,12 +14,26 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css&color=%23663399) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) [![PrimeVue](https://img.shields.io/badge/PrimeVue-0D7A3A?style=for-the-badge&logo=primevue&logoColor=white)](https://primevue.org)
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-postgres?style=for-the-badge&logo=postgresql&logoColor=white&color=%230064a5) ![NestJs](https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&color=red)![Prisma](https://img.shields.io/badge/prisma-green?style=for-the-badge&logo=prisma&color=%230c344b)|
 
-## 📊 Estadisticas relevantes
+## 📊 Estadísticas relevantes
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: stretch">
-  <img src="https://readme-stats.angel-raven.dev/api?username=DevAngelCrow&include_all_commits=true&line_height=28.5&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark" style="max-width: 100%" />
-  <img src="https://readme-stats.angel-raven.dev/api/top-langs/?username=DevAngelCrow&layout=compact&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40" style="max-width: 100%"/>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://readme-stats.angel-raven.dev/api?username=DevAngelCrow&include_all_commits=true&line_height=28.5&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark&card_width=450"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://readme-stats.angel-raven.dev/api/top-langs/?username=DevAngelCrow&layout=compact&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&card_width=450"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 💼 Experiencia laboral
 
