@@ -15,7 +15,7 @@
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-postgres?style=for-the-badge&logo=postgresql&logoColor=white&color=%230064a5) ![NestJs](https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&color=red)![Prisma](https://img.shields.io/badge/prisma-green?style=for-the-badge&logo=prisma&color=%230c344b)|
 
 ## 📊 Estadísticas relevantes
-<table align="center">
+<table>
   <tr>
     <td>
       <img
