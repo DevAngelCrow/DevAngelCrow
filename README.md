@@ -21,14 +21,14 @@
     <td width="50%">
       <img
         width="100%"
-        src="https://readme-stats.angel-raven.dev/api?username=DevAngelCrow&include_all_commits=true&line_height=28.5&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark&card_width=450"
+        src="https://readme-stats.angel-raven.dev/api?username=DevAngelCrow&include_all_commits=true&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&show_icons=true&theme=dark"
         alt="GitHub Stats"
       />
     </td>
     <td width="50%">
       <img
         width="100%"
-        src="https://readme-stats.angel-raven.dev/api/top-langs/?username=DevAngelCrow&layout=compact&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40&card_width=450"
+        src="https://readme-stats.angel-raven.dev/api/top-langs/?username=DevAngelCrow&custom_title=Lenguajes+más+utilizados&theme=dark&langs_count=6&title_color=2B5BBD&icon_color=1124bb&text_color=a1a1a1&bg_color=0,000000,130f40"
         alt="Top Languages"
       />
     </td>
